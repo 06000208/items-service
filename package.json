@@ -1,0 +1,19 @@
+{
+  "name": "@a06000208/items-service",
+  "version": "0.0.1",
+  "description": "Experimental data management service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/06000208/items-service.git"
+  },
+  "author": "https://github.com/06000208",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/06000208/items-service/issues"
+  },
+  "homepage": "https://github.com/06000208/items-service#readme"
+}
